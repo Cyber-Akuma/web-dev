@@ -24,7 +24,7 @@ const contactos = {
     },
     "gmail": {
         "icono": "public/icons/contactos/gmail.png",
-        "link": "yassin1402oulad@gmail.com"
+        "link": "https://mail.google.com/mail/?view=cm&to=yassin1402oulad@gmail.com&su=Contacto desde tu portfolio"
     },
     "discord": {
         "icono": "public/icons/contactos/discord.png",
@@ -32,7 +32,7 @@ const contactos = {
     },
     "cv": {
         "icono": "public/icons/contactos/cv.png",
-        "link": "#"
+        "link": "public/Yassin_Oulad_Mohand_CV.pdf"
     }
 };
 
